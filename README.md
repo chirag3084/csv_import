@@ -2,4 +2,4 @@
 
 tech stack :- HTML, CSS, Django
 
-
+run locally :- http://localhost:8000
